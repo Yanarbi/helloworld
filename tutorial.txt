@@ -1,4 +1,4 @@
-clone files from github.com/adhanystika/helloworld to local directory (computer)
+## clone files from github.com/adhanystika/helloworld to local directory (computer)
 
 
 1. git clone http://github.com/adhanystika/helloworld /TRY
@@ -7,19 +7,26 @@ clone files from github.com/adhanystika/helloworld to local directory (computer)
 Saat mulai GUI Bash kita klik kanan di direktor Git maka dari itu 
 langsung ketik alamat file yang diinginkan (di github) spasi (berfungsi sebagai to)
 direktori yang diinginkan di folder Git
-
 DONE!
 
 
-Send file to github/adhanystika/helloworld
 
-1. put the file into local directory named "TRY"
-2. in cmd type:
-               git add filename.txt
-               git commit -m "your comment whatever"
-               git push origin master (why master? look at the directory in your cmd)
+## Send file to github/adhanystika/helloworld? First, put the file into local 
+directory you connected with github. And then in cmd type:
+
                
-3. input your github username and password
-
+1. git add filename.txt
+2. git commit -m "your comment whatever"
+3. git push origin master (why master? look at the directory in your cmd)          
+4. input your github username and password
 DONE
 
+
+
+## pull file to local directory
+
+1. git pull
+2. git push origin master
+
+*master karena disesuaikan dengan direktory nya
+DONE. And all data up to date
