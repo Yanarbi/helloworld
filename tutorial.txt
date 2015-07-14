@@ -8,3 +8,18 @@ Saat mulai GUI Bash kita klik kanan di direktor Git maka dari itu
 langsung ketik alamat file yang diinginkan (di github) spasi (berfungsi sebagai to)
 direktori yang diinginkan di folder Git
 
+DONE!
+
+
+Send file to github/adhanystika/helloworld
+
+1. put the file into local directory named "TRY"
+2. in cmd type:
+               git add filename.txt
+               git commit -m "your comment whatever"
+               git push origin master (why master? look at the directory in your cmd)
+               
+3. input your github username and password
+
+DONE
+
